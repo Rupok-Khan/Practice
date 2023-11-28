@@ -1,0 +1,227 @@
+
+.head{
+    background-color: #6F7DFB;
+ 
+    width:100%;
+    color: white;
+   
+}
+.logo{
+    padding-left: 40px;
+
+}
+.navbar-nav li a{
+    font-size: 1.3rem;
+}
+.logo h1{
+    font-size: 4rem;
+}
+#photo-pro img{
+    padding-top: 10px;
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+#photo1{
+    width: 65%;
+    height: 400;
+    margin-left: 180px;
+   
+}
+#photo2{
+    width:150px;
+    height: 60px;
+    position: relative;
+    top: 400px;
+    right: 130px;
+}
+#photo3{
+    width:150px;
+    height: 60px;
+    position: relative;
+    top: 100px;
+    left: 16px;
+}
+
+
+.content-area{
+    width: 100%;
+}
+#text{
+   padding-top: 200px;
+   padding-left: 50px;
+}
+.navbar-nav{
+    margin-left: auto;
+    color:white;
+
+}
+.btn1{
+    background-color: #023047;
+    color: white;
+    border-radius: 15px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border: none;
+    transition: 0.7s;
+}
+.btn1:hover{
+    background-color: #DA722C;
+}
+.btn2{
+    background-color:#DA722C;
+    color: white;
+    border-radius: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border: none;
+    transition: 0.7s;
+  
+}
+.btn2:hover{
+    background-color: #862cda;
+}
+.photo-pro{
+    padding-top: 50px;
+
+}
+.photo-pro img{
+    height: 500px;
+    width: 400px;
+}
+#text2{
+   padding-top: 200px;
+   padding-left: 30px;
+   padding-bottom: 50px;
+}
+.second-cont h1{
+    color: #023047;
+    font-weight: bold;
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+.second-cont p{
+    text-align: justify;
+    padding-right: 50px;
+    padding-left: 20px;
+    
+}
+.bt{
+    padding-left: 20px;
+    
+}
+
+.third-content{
+    background-color: #6F7DFB;
+}
+.third-content h1{
+  padding-top: 50px;
+}
+.pto1{
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+}
+
+.pto1 img{
+    
+    height: 350px;
+    width: 90%;
+    padding: 20px;
+    
+}
+.pto2{
+    margin: auto;
+    text-align: center;
+}
+.pto2 img{
+    
+    height: 350px;
+    width: 90%;
+    padding: 20px;
+    
+}
+.fourth-content{
+    text-align: center;
+    padding: 50px;
+}
+.app{
+    padding: 40px;
+}
+.app img{
+    padding: 10px;
+}
+footer{
+    background-color: #000000;
+}
+.row{
+  padding-bottom: 30px;
+}
+#heading{
+    color: #DA722C;
+    padding: 50px;
+}
+.links a{
+    text-decoration: none;
+    color: white;
+    
+}
+.course a{
+    text-decoration: none;
+    color: white;
+}
+.contact a{
+    text-decoration: none;
+    color: white;
+}
+#link p{
+    padding-left: 80px;
+}
+    
+.course a p{
+    padding-left: 80px;
+}
+.contact a p{
+    padding-left: 50px;
+}
+.icon{
+    padding-left: 50px;
+ 
+}
+.icon a i{
+    padding: 5px;
+}
+.input-text{
+    padding-left: 50px;
+    display: inline-block;
+    padding-top: 4px;
+    
+}
+.input-text input{
+  border-radius: 5px;
+  border: none;
+}
+.btn3{
+    border-radius: 5px;
+    background-color: #DA722C;
+    border: none;
+}
+.all{
+    text-align: right;
+    padding-right: 70px;
+
+}
+.btn5{
+    border-radius: 30px;
+    background-color: #DA722C;
+    border: none;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+}
